@@ -1,3 +1,22 @@
+/*
+General hacia lo especifico
+*/
+.cuerpo{
+    background-color: black;
+}
+
+/*Sección*/
 #flor {
     background-color: aqua; 
+}
+
+/*Pablo*/
+.pablo{
+    color: aquamarine;
+}
+
+/*Footer*/
+#footer{
+    color: green;
+    text-align: center;
 }
