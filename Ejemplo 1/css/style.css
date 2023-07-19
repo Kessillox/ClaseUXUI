@@ -4,19 +4,13 @@ General hacia lo especifico
 .cuerpo{
     background-color: black;
 }
-
-/*Sección*/
-#flor {
-    background-color: aqua; 
+.parrafo{
+    color: bisque;
+    background-color: rgb(122, 45, 122);
 }
-
-/*Pablo*/
-.pablo{
-    color: aquamarine;
-}
-
 /*Footer*/
 #footer{
+    background-color: #FFFFFF;
     color: green;
     text-align: center;
 }
