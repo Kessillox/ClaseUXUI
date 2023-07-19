@@ -3,10 +3,20 @@ General hacia lo especifico
 */
 .cuerpo{
     background-color: black;
+    border: 3px solid whitesmoke;
+}
+#seccion{
+    border: 4px solid greenyellow;
+
+}
+
+#box{
+    border: 6px solid green;
+    border-radius: 25%;
 }
 .parrafo{
     color: bisque;
-    background-color: rgb(122, 45, 122);
+    text-align: justify;
 }
 /*Footer*/
 #footer{
